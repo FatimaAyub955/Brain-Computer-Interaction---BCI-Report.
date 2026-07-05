@@ -1,0 +1,2 @@
+This project explains the interaction of the human brain directly with computers without using any tool explicitly. The brain thinks about a particular thing or makes some decision, the EEG mesh detects that signal and through Machine Learning Algorithms detects the patterns and infers the output.
+That output is often presented in the form of graphs, from where computer learns and understands the assignment and takes action accordingly. In short, brain directly communicates with computers.
